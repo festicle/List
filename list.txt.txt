@@ -1,10 +1,10 @@
-Discord.com
-discordapp.com
-discord.gg
-YouTube.com
-YouTu.be
-Googlevideo.com
-Ytimg.l.google.com
-YouTube.l.google.com
-Ytimg.com
-twitch.tv
+0.0.0.0 Discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 discord.gg
+0.0.0.0 YouTube.com
+0.0.0.0 YouTu.be
+0.0.0.0 Googlevideo.com
+0.0.0.0 Ytimg.l.google.com
+0.0.0.0 YouTube.l.google.com
+0.0.0.0 Ytimg.com
+0.0.0.0 twitch.tv
